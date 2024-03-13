@@ -36,4 +36,4 @@ jobs:
         with:
           project: "interesting-dog-99"
           entrypoint: "index.js" # 📝 Update the entrypoint if necessary
-          root: "./ultraviolet-deploy/Ultraviolet-App" # 📝 Update the root if necessary
+          root: "ultraviolet-deploy/Ultraviolet-App" # 📝 Update the root if necessary
