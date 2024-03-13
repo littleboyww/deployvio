@@ -35,5 +35,5 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "interesting-dog-99"
-          entrypoint: "index.js" # 📝 Update the entrypoint if necessary
-          root: "ultraviolet-deploy/Ultraviolet-App" # 📝 Update the root if necessary
+          entrypoint: "ultraviolet-deploy/Ultraviolet-App/index.js" # 📝 Update the entrypoint if necessary
+          root: "." # 📝 Update the root if necessary
